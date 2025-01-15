@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/HaydenHuan03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HaydenHuan03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HaydenHuan03/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -171,5 +175,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
