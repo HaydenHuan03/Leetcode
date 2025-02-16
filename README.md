@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/HaydenHuan03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HaydenHuan03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/HaydenHuan03/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/HaydenHuan03/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/HaydenHuan03/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HaydenHuan03/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/HaydenHuan03/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1524-string-matching-in-an-array) |
