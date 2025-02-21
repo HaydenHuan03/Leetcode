@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HaydenHuan03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HaydenHuan03/Leetcode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/HaydenHuan03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/HaydenHuan03/Leetcode/tree/master/0724-find-pivot-index) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/HaydenHuan03/Leetcode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Counting
 |  |
