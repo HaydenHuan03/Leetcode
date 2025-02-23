@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/HaydenHuan03/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
@@ -53,10 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/HaydenHuan03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HaydenHuan03/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/HaydenHuan03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/HaydenHuan03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HaydenHuan03/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
