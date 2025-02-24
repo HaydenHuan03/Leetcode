@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HaydenHuan03/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HaydenHuan03/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/HaydenHuan03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HaydenHuan03/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
