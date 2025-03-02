@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HaydenHuan03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/HaydenHuan03/Leetcode/tree/master/0290-word-pattern) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/HaydenHuan03/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HaydenHuan03/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HaydenHuan03/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
