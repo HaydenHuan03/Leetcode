@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HaydenHuan03/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/HaydenHuan03/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HaydenHuan03/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/HaydenHuan03/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
