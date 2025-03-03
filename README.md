@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HaydenHuan03/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/HaydenHuan03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/HaydenHuan03/Leetcode/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/HaydenHuan03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HaydenHuan03/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HaydenHuan03/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/HaydenHuan03/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/HaydenHuan03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HaydenHuan03/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HaydenHuan03/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Prefix Sum
 |  |
