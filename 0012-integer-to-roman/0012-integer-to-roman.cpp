@@ -8,10 +8,8 @@ public:
         string ans = "";
 
         for(auto const &[value, symbol] : itor){
-            if(num == 0){
-                return ans;
-            }
-            
+            if(num == 0) break;
+
             while(num >= value){
                 ans += symbol;
                 num -= value;
