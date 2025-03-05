@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HaydenHuan03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/HaydenHuan03/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
+| [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
 |  |
 | ------- |
