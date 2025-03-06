@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HaydenHuan03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Math
 |  |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
 | ------- |
