@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HaydenHuan03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
 |  |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
 |  |
 | ------- |
