@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -337,4 +339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
