@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/HaydenHuan03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/HaydenHuan03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/HaydenHuan03/Leetcode/tree/master/0952-word-subsets) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -394,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
