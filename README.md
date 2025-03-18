@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/HaydenHuan03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HaydenHuan03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/HaydenHuan03/Leetcode/tree/master/0735-asteroid-collision) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/HaydenHuan03/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2470-removing-stars-from-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/HaydenHuan03/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/HaydenHuan03/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/HaydenHuan03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/HaydenHuan03/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/HaydenHuan03/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/HaydenHuan03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/HaydenHuan03/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
