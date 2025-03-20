@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HaydenHuan03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HaydenHuan03/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/HaydenHuan03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/HaydenHuan03/Leetcode/tree/master/0118-pascals-triangle) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/HaydenHuan03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HaydenHuan03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HaydenHuan03/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HaydenHuan03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HaydenHuan03/Leetcode/tree/master/0125-valid-palindrome) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/HaydenHuan03/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/HaydenHuan03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HaydenHuan03/Leetcode/tree/master/0217-contains-duplicate) |
