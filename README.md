@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HaydenHuan03/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1646-kth-missing-positive-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HaydenHuan03/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HaydenHuan03/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1646-kth-missing-positive-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
