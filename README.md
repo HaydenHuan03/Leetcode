@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/HaydenHuan03/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/HaydenHuan03/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HaydenHuan03/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -433,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HaydenHuan03/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
