@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/HaydenHuan03/Leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
