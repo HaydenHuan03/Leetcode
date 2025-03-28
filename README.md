@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/HaydenHuan03/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/HaydenHuan03/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -397,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/HaydenHuan03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/HaydenHuan03/Leetcode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Counting
 |  |
 | ------- |
@@ -413,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/HaydenHuan03/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sliding Window
 |  |
 | ------- |
