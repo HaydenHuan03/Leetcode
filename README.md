@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/HaydenHuan03/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/HaydenHuan03/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/HaydenHuan03/Leetcode/tree/master/3447-clear-digits) |
 ## Queue
 |  |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Brainteaser
 |  |
 | ------- |
@@ -462,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0278-first-bad-version](https://github.com/HaydenHuan03/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/HaydenHuan03/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
