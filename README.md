@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HaydenHuan03/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HaydenHuan03/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/HaydenHuan03/Leetcode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/HaydenHuan03/Leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HaydenHuan03/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/HaydenHuan03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/HaydenHuan03/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/HaydenHuan03/Leetcode/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/HaydenHuan03/Leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
