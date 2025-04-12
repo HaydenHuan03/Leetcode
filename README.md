@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/HaydenHuan03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/HaydenHuan03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/HaydenHuan03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/HaydenHuan03/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/HaydenHuan03/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/HaydenHuan03/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/HaydenHuan03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HaydenHuan03/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HaydenHuan03/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/HaydenHuan03/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HaydenHuan03/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/HaydenHuan03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/HaydenHuan03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Interactive
