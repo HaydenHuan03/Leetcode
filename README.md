@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/HaydenHuan03/Leetcode/tree/master/3447-clear-digits) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Recursion
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
