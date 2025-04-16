@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/HaydenHuan03/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3447-clear-digits](https://github.com/HaydenHuan03/Leetcode/tree/master/3447-clear-digits) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Recursion
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HaydenHuan03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/HaydenHuan03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HaydenHuan03/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
