@@ -1,22 +1,22 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        unordered_map<int, int>freq;
-        int count = 0;
+        sort(nums.begin(), nums.end());
+        int left = 0, right = 1;
+        int maxLength = 0;
+        while(right < nums.size()){
+            int diff = nums[right] - nums[left];
 
-        for(int num : nums){
-            freq[num]++;
-        }
-
-        for(const auto& pair : freq){
-            int num = pair.first;
-
-            if(freq.find(num+1) != freq.end()){
-                int current = freq[num] + freq[num+1];
-                count = max(count, current);
+            if(diff == 1){
+                maxLength = max(maxLength, right - left + 1);
+                right++;
+            }else if(diff <= 1){
+                right++;
+            }else{
+                left++;
             }
         }
 
-        return count;
+        return maxLength;
     }
 };
