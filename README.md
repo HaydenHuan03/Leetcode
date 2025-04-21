@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/HaydenHuan03/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HaydenHuan03/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/HaydenHuan03/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/HaydenHuan03/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -552,4 +554,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HaydenHuan03/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Enumeration
+|  |
+| ------- |
+| [2122-count-special-quadruplets](https://github.com/HaydenHuan03/Leetcode/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
