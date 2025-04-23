@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/HaydenHuan03/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HaydenHuan03/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/HaydenHuan03/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2107-find-unique-binary-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HaydenHuan03/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/HaydenHuan03/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/HaydenHuan03/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HaydenHuan03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HaydenHuan03/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HaydenHuan03/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/HaydenHuan03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/HaydenHuan03/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/HaydenHuan03/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2107-find-unique-binary-string](https://github.com/HaydenHuan03/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Interactive
 |  |
 | ------- |
