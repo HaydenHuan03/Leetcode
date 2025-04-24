@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-delete-greatest-value-in-each-row](https://github.com/HaydenHuan03/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HaydenHuan03/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3226-minimum-number-game](https://github.com/HaydenHuan03/Leetcode/tree/master/3226-minimum-number-game) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/HaydenHuan03/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/HaydenHuan03/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/HaydenHuan03/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HaydenHuan03/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HaydenHuan03/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/HaydenHuan03/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
