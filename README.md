@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3081-minimum-array-length-after-pair-removals](https://github.com/HaydenHuan03/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3226-minimum-number-game](https://github.com/HaydenHuan03/Leetcode/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HaydenHuan03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
