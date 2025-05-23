@@ -1,6 +1,10 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         //Solution 1
+        if(s.length() != t.length()){
+            return false;
+        }
+
         char[] string1 = s.toCharArray();
         char[] string2 = t.toCharArray();
 
