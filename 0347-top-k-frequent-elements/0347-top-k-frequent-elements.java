@@ -1,27 +1,26 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer, Integer> frequency = new HashMap<>();
+        HashMap<Integer, Integer> freq = new HashMap<>();
+        int[] result = new int[k];
 
         for(int n : nums){
-            frequency.merge(n, 1, Integer::sum);
+            freq.put(n, freq.getOrDefault(n, 0)+1);
         }
 
-        List<Integer>[] bucket = new List[nums.length + 1];
-        for(Map.Entry<Integer, Integer> entry : frequency.entrySet()){
-            int freq = entry.getValue();
-            if(bucket[freq] == null) bucket[freq] = new ArrayList<>();
-            bucket[freq].add(entry.getKey());
-        }
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b)->a[1] - b[1]);
 
-        int[] result = new int[k];
-        int idx = 0;
-        for(int freq = bucket.length - 1; freq >= 0 && idx < k; freq--){
-            if(bucket[freq] != null){
-                for(int num : bucket[freq]){
-                    result[idx++] = num;
-                    if(idx==k) break;
-                }
+        for(Map.Entry<Integer, Integer> e : freq.entrySet()){
+            int key = e.getKey();
+            int value = e.getValue();
+            pq.add(new int[]{key, value});
+            if(pq.size() > k){
+                pq.poll();
             }
+        }
+
+        for(int i = 0; i < k; i++){
+            int[] pair = pq.poll();
+            result[i] = pair[0];
         }
 
         return result;
