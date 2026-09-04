@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/HaydenHuan03/Leetcode/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HaydenHuan03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3903-smallest-stable-index-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/HaydenHuan03/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HaydenHuan03/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HaydenHuan03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3903-smallest-stable-index-i](https://github.com/HaydenHuan03/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
