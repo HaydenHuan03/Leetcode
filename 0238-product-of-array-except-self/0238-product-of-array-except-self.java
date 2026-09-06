@@ -5,6 +5,7 @@ class Solution {
         Arrays.fill(res, 1);
         int curr = 1;
 
+        //Fill in the res from left first
         for(int i = 0; i < n; i++){
             res[i] *= curr;
             curr *= nums[i];
@@ -12,6 +13,7 @@ class Solution {
 
         curr = 1;
 
+        //Fill in the res from right then.
         for(int i = n-1; i >= 0; i--){
             res[i] *= curr;
             curr *= nums[i];
