@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/HaydenHuan03/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/HaydenHuan03/Leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3870-count-commas-in-range](https://github.com/HaydenHuan03/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
