@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HaydenHuan03/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HaydenHuan03/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HaydenHuan03/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HaydenHuan03/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HaydenHuan03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/HaydenHuan03/Leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/HaydenHuan03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HaydenHuan03/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
@@ -598,4 +600,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HaydenHuan03/Leetcode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HaydenHuan03/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HaydenHuan03/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
