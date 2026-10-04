@@ -23,8 +23,5 @@ class Solution {
             pointer2--;
             insert--;
         }
-
-        Arrays.sort(nums1);
-
     }
 }
