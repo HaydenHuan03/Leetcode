@@ -4,14 +4,27 @@ class Solution {
         int pointer2 = n-1;
         int insert = m+n-1;
 
-        for(int i = insert; i >= pointer1; i--){
-            if(i == pointer1){
-                break;
+        while(pointer1 >= 0 && pointer2 >= 0){
+            if(nums1[pointer1] > nums2[pointer2]){
+                nums1[insert] = nums1[pointer1];
+                //move pointer1
+                pointer1--;
+            }else{
+                nums1[insert] = nums2[pointer2];
+                //move pointer2
+                pointer2--;
             }
-            nums1[i] = nums2[pointer2];
+            //move insert pointer
+            insert--;
+        }
+
+        while(pointer2 >= 0){
+            nums1[insert] = nums2[pointer2];
             pointer2--;
+            insert--;
         }
 
         Arrays.sort(nums1);
+
     }
 }
