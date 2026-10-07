@@ -14,10 +14,7 @@ class Solution {
 
             if(height[left] < height[right]){
                 left++;
-            }else if(height[left] > height[right]){
-                right--;
             }else{
-                left++;
                 right--;
             }
         }
