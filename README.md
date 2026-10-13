@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/HaydenHuan03/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/HaydenHuan03/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HaydenHuan03/Leetcode/tree/master/0013-roman-to-integer) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HaydenHuan03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HaydenHuan03/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HaydenHuan03/Leetcode/tree/master/0146-lru-cache) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HaydenHuan03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HaydenHuan03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/HaydenHuan03/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HaydenHuan03/Leetcode/tree/master/0206-reverse-linked-list) |
