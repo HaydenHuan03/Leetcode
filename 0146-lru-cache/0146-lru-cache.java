@@ -1,81 +1,77 @@
-import java.util.HashMap;
-import java.util.Map;
-
-class Node {
+class Node{
     int key;
     int val;
     Node prev;
     Node next;
 
-    public Node(int key, int val) {
+    public Node(int key, int val){
         this.key = key;
         this.val = val;
+        this.prev = null;
+        this.next = null;
     }
 }
 
 class LRUCache {
-    private final int cap;
-    private final Map<Integer, Node> cache; // key -> node, for fast lookup
-
-    // Dummy nodes at both ends. List looks like:
-    // oldest <-> (least recent) ... (most recent) <-> latest
-    private final Node oldest;
-    private final Node latest;
+    private int cap;
+    private Map<Integer, Node> cache;
+    private Node oldest;
+    private Node latest;
 
     public LRUCache(int capacity) {
         this.cap = capacity;
         this.cache = new HashMap<>();
-        this.oldest = new Node(0, 0);
-        this.latest = new Node(0, 0);
-        oldest.next = latest;
-        latest.prev = oldest;
+        this.oldest = new Node(0,0);
+        this.latest = new Node(0,0);
+        this.oldest.next = this.latest;
+        this.latest.prev = this.oldest;
     }
-
+    
     public int get(int key) {
-        if (!cache.containsKey(key)) {
-            return -1;
-        }
-        Node node = cache.get(key);
-        remove(node);  // move it to the most recent spot
-        insert(node);
-        return node.val;
-    }
-
-    public void put(int key, int value) {
-        // Key exists: update value and mark as most recent
-        if (cache.containsKey(key)) {
+        if(cache.containsKey(key)){
             Node node = cache.get(key);
-            node.val = value;
             remove(node);
             insert(node);
-            return;
+            return node.val;
+        }
+        return -1;
+    }
+    
+    public void put(int key, int value) {
+        if(cache.containsKey(key)){
+            remove(cache.get(key));
         }
 
-        // New key: add it
         Node newNode = new Node(key, value);
         cache.put(key, newNode);
         insert(newNode);
 
-        // Too many items: remove the least recent one
-        if (cache.size() > cap) {
+        if(cache.size() > cap){
             Node lru = oldest.next;
             remove(lru);
             cache.remove(lru.key);
         }
     }
 
-    // Take a node out of the list
-    private void remove(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
+    private void remove(Node node){
+        Node prev = node.prev;
+        Node next = node.next;
+        prev.next = next;
+        next.prev = prev;
     }
 
-    // Put a node at the most recent spot (just before "latest")
-    private void insert(Node node) {
+    private void insert(Node node){
         Node prev = latest.prev;
-        prev.next = node;
+        Node next = latest;
+        prev.next = next.prev = node;
+        node.next = next;
         node.prev = prev;
-        node.next = latest;
-        latest.prev = node;
     }
 }
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache obj = new LRUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
